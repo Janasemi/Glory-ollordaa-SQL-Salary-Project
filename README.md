@@ -1,0 +1,1 @@
+# Glory-ollordaa-SQL-Salary-Project
