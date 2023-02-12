@@ -15,7 +15,7 @@ FROM TechProject..salaries
 
 ##Queries
 
-The project includes several SQL queries to analyze the employee salary data. You can find the queries in the 'Glory-ollordaa-SQL-Salary-Project.sql' file.
+The project includes several SQL queries to analyze the employee salary data. You can find the queries in the 'SQL Salary Project.sql' file.
 
 Contributions are welcome!!
 
