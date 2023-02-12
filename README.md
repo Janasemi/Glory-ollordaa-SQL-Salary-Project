@@ -8,7 +8,7 @@ This SQL project analyzes employee salaries for different companies. The data in
 
 ##Database setup and loading
 
-The project uses a MySQL database. The database has already been set up from an already existing excel file. To view the file, you,ll need to run the following  SQL script that displays all the data in the salary file:
+The project uses a MySQL database. The database has already been set up from a pre-existing salaries.csv file. It was then loaded and renamed. To view the file, you,ll need to run the following  SQL script that displays all the data in the salary file:
 
 SELECT * 
 FROM TechProject..salaries
