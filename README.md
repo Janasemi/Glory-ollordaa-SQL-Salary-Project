@@ -1,6 +1,7 @@
 # Glory-ollordaa-SQL-Salary-Project
 
 #Employee Salary Analysis
+
 This project was built during my final module at the women techsters fellowship data science class.
 Project goals was to use Structured Language Query(SQL) to clean a dataset on an organization's employee salary database.
 This SQL project analyzes employee salaries for different companies. The data includes information such as Employee name, company location, job title, experience level, and salary.
